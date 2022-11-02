@@ -1,0 +1,24 @@
+{
+    "name"       : "Listener",
+    "guid"       : "asc.{headless}",
+    "baseUrl"    : "",
+    "variations" : [
+        {
+            "description"         : "Listener",
+            "url"                 : "index.html",
+            "icons"               : ["resources/img/icon.png", "resources/img/icon@2x.png"],
+            "isViewer": false,
+            "EditorsSupport": [
+            "word"
+            ],
+            "isModal": true,
+            "isInsideMode": false,
+            "initDataType": "none",
+            "initData": "",
+            "isUpdateOleOnResize": true,
+            "buttons": [],
+            "isSystem": true,
+            "isVisual": false
+        }
+    ]
+}
